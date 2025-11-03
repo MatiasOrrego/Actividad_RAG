@@ -244,21 +244,3 @@ start = time.time()
 elapsed = time.time() - start
 print(f"Tiempo: {elapsed:.2f}s")
 ```
-
----
-
-## Conclusión
-
-Este notebook te permite:
-- Crear tu propio RAG en 5 minutos
-- Experimentar con diferentes modelos
-- Optimizar parámetros según tus necesidades
-- Comparar rendimiento de configuraciones
-
-Próximos pasos:
-1. Prueba con tus propios PDFs
-2. Experimenta con los parámetros
-3. Documenta qué configuración funciona mejor
-4. Comparte tus resultados
-
-Buena suerte!
